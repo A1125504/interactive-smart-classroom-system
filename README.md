@@ -64,7 +64,7 @@ I gained practical experience in:
   (e.g., drawing coordinates instead of full images)
 - Managing multi-role systems with different behaviors
   for teachers and students
-- Translating educational needs into concrete system features
+- Translating educational needs into concrete system features 
 
 More importantly, this project taught me that
 system design is not simply about adding more features,
