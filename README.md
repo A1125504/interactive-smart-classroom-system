@@ -52,3 +52,19 @@ This project strengthened my understanding of designing
 efficient, human-centered interactive systems.
 It also highlighted how software optimization can play
 a crucial role in reducing educational inequality.
+
+## What I Learned
+Through this project, I learned how to design a system by balancing
+interaction quality and system efficiency.
+
+I gained practical experience in:
+- Designing a client-server architecture for real-time interaction
+- Optimizing network communication by transmitting lightweight data
+  (e.g., drawing coordinates instead of full images)
+- Managing multi-role systems with different behaviors for teachers and students
+- Translating educational needs into concrete system features
+
+More importantly, this project helped me understand that
+system design is not only about adding features,
+but about making thoughtful trade-offs to achieve accessibility,
+stability, and fairness.
